@@ -1,4 +1,7 @@
 ---
+testList:
+  - Ziggy
+  - Stardust
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
@@ -68,3 +71,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
