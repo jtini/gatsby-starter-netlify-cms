@@ -3,7 +3,7 @@ templateKey: index-page
 testList:
   - Ziggy
   - Stardust
-title: Great coffee with a conscience
+title: Great coffee with NO conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee WITHOUT a conscience
 subheading: Support sustainable farming while enjoying a cup
